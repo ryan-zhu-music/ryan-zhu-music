@@ -1,6 +1,9 @@
 # Hey, I'm Ryan! 👋
 
 <p>
+  <a href="https://www.ryanzhu.com/">
+    <img src="https://img.shields.io/badge/-Website-bc2a8d?style=for-the-badge&amp;logo=Github&amp;logoColor=white&amp;link=https://www.ryanzhu.com/"alt="Website@ryanzhu.com">
+  </a>
   <a href="https://www.instagram.com/r.y.a.n.z.h.u/">
     <img src="https://img.shields.io/badge/-r.y.a.n.z.h.u-bc2a8d?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/r.y.a.n.z.h.u/"alt="Instagram@r.y.a.n.z.h.u">
   </a>
@@ -21,17 +24,54 @@
   </a>
 </p>
 
-<!--
-**ryan-zhu-music/ryan-zhu-music** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a high school student in Toronto, and I enjoy :musical_note: music and :computer: coding! 
 
-Here are some ideas to get you started:
+### Some tools I have experience in: :bulb:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-23242b?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-23242b?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-23242b?style=flat-square&logo=Java)
+![HTML5](https://img.shields.io/badge/-HTML5-23242b?style=flat-square&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-23242b?style=flat-square&logo=CSS3)
+![Wordpress](https://img.shields.io/badge/-Wordpress-23242b?style=flat-square&logo=Wordpress)
+![React](https://img.shields.io/badge/-React-23242b?style=flat-square&logo=React&logoColor=4285F4)
+![React Native](https://img.shields.io/badge/-React%20Native-23242b?style=flat-square&logo=React&logoColor=4285F4)
+![Flutter](https://img.shields.io/badge/-Flutter-23242b?style=flat-square&logo=Flutter&logoColor=4285F4)
+![Heroku](https://img.shields.io/badge/-Heroku-23242b?style=flat-square&logo=Heroku)
+
+- Web Development
+- App Development
+- Cybersecurity 
+  - Cryptography
+  - Reverse Engineering
+  - Web Exploitation
+  - Forensics
+- Competitive Programming
+- Game Development
+- And more!
+
+### And for music: :notes:
+
+![MuseScore](https://img.shields.io/badge/-MuseScore-23242b?style=flat-square&logo=MuseScore)
+![Sibelius](https://img.shields.io/badge/-Sibelius-23242b?style=flat-square&logo=Sibelius)
+
+- Composition
+  - Solo piano :musical_keyboard:
+  - Chamber Ensembles :postal_horn:
+  - Orchestra :violin:
+  - Wind Ensemble :saxophone:
+  - Soundtracks/Electronic :cd:
+- Arrangments/Transcriptions
+  - Classical music :musical_score:
+  - Pop songs :microphone:
+  - Film music :clapper:
+
+My favourite genres are:
+- Late-romantic
+- Impressionist
+- Oriental
+- Film/VGM
+
+#### My compositions can be found on my [personal website](https://www.ryanzhu.com/#/music) :musical_score:
+
+Feel free to reach out for anything! (requests, collaborations, issues, chatting) :smiley:
