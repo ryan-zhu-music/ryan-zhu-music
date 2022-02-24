@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://www.ryanzhu.com/">
-    <img src="https://img.shields.io/badge/-Website-070c29?style=for-the-badge&amp;logo=Github&amp;logoColor=white&amp;link=https://www.ryanzhu.com/"alt="Website@ryanzhu.com">
+    <img src="https://img.shields.io/badge/-Website-3e4e82?style=for-the-badge&amp;logo=Github&amp;logoColor=white&amp;link=https://www.ryanzhu.com/"alt="Website@ryanzhu.com">
   </a>
   <a href="https://www.instagram.com/r.y.a.n.z.h.u/">
     <img src="https://img.shields.io/badge/-r.y.a.n.z.h.u-bc2a8d?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/r.y.a.n.z.h.u/"alt="Instagram@r.y.a.n.z.h.u">
@@ -38,7 +38,7 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-23242b?style=flat-square&logo=React&logoColor=4285F4)
 ![Flutter](https://img.shields.io/badge/-Flutter-23242b?style=flat-square&logo=Flutter&logoColor=4285F4)
 ![Heroku](https://img.shields.io/badge/-Heroku-23242b?style=flat-square&logo=Heroku)
-![Figma](https://img.shields.io/badge/-Figma-e04a34?style=flat-square&logo=Figma)
+![Figma](https://img.shields.io/badge/-Figma-23242b?style=flat-square&logo=Figma)
 
 - Web Development
 - App Development
