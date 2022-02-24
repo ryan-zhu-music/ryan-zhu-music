@@ -1,4 +1,4 @@
-# Hey, I'm Ryan Zhu! 👋
+<h1>Hey, I'm Ryan Zhu! 👋</h1>
 
 <p>
   <a href="https://www.ryanzhu.com/">
