@@ -1,4 +1,4 @@
-# Hey, I'm Ryan! 👋
+# Hey, I'm Ryan Zhu! 👋
 
 <p>
   <a href="https://www.ryanzhu.com/">
@@ -52,10 +52,11 @@
 - Design
 - And more!
 
-### And for music: :notes:
+### ...and for music: :notes:
 
 ![MuseScore](https://img.shields.io/badge/-MuseScore-23242b?style=flat-square&logo=MuseScore)
-![Sibelius](https://img.shields.io/badge/-Sibelius-23242b?style=flat-square&logo=Sibelius)
+![Sibelius](https://img.shields.io/badge/-Sibelius-23242b?style=flat-square)
+![Polyphone](https://img.shields.io/badge/-Polyphone-23242b?style=flat-square)
 
 - Composition
   - Solo piano :musical_keyboard:
@@ -67,6 +68,7 @@
   - Classical music :musical_score:
   - Pop songs :microphone:
   - Film music :clapper:
+- Soundfont Development
 
 My favourite genres are:
 - Late-romantic
