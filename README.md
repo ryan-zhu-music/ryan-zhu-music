@@ -1,4 +1,4 @@
-<h1>Hey, I'm Ryan Zhu! 👋</h1>
+<h1>Hey, I'm Ryan Zhu!</h1>
 
 <p>
   <a href="https://www.ryanzhu.com/">
@@ -24,9 +24,9 @@
   </a>
 </p>
 
-#### I'm a high school student in Toronto, and I enjoy music :musical_note: and coding :computer: ! 
+#### I'm a high school student in Toronto, and I enjoy music and coding! 
 
-### Some tools I have experience in: :bulb:
+### Some tools I have experience in:
 
 ![Python](https://img.shields.io/badge/-Python-23242b?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-23242b?style=flat-square&logo=javascript)
@@ -52,7 +52,7 @@
 - Design
 - And more!
 
-### ...and for music: :notes:
+### ...and for music:
 
 ![MuseScore](https://img.shields.io/badge/-MuseScore-23242b?style=flat-square&logo=MuseScore)
 ![Sibelius](https://img.shields.io/badge/-Sibelius-23242b?style=flat-square)
