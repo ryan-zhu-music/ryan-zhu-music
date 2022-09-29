@@ -30,13 +30,14 @@
 
 ![Python](https://img.shields.io/badge/-Python-23242b?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-23242b?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-23242b?style=flat-square&logo=typescript)
 ![Java](https://img.shields.io/badge/-Java-23242b?style=flat-square&logo=Java)
 ![HTML5](https://img.shields.io/badge/-HTML5-23242b?style=flat-square&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-23242b?style=flat-square&logo=CSS3)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-23242b?style=flat-square&logo=Wordpress)
 ![React](https://img.shields.io/badge/-React-23242b?style=flat-square&logo=React&logoColor=4285F4)
 ![React Native](https://img.shields.io/badge/-React%20Native-23242b?style=flat-square&logo=React&logoColor=4285F4)
-![Flutter](https://img.shields.io/badge/-Flutter-23242b?style=flat-square&logo=Flutter&logoColor=4285F4)
+![Firebase](https://img.shields.io/badge/-Firebase-23242b?style=flat-square&logo=Firebase)
 ![Heroku](https://img.shields.io/badge/-Heroku-23242b?style=flat-square&logo=Heroku)
 ![Figma](https://img.shields.io/badge/-Figma-23242b?style=flat-square&logo=Figma)
 
