@@ -7,6 +7,9 @@
   <a href="https://www.instagram.com/r.y.a.n.z.h.u/">
     <img src="https://img.shields.io/badge/-r.y.a.n.z.h.u-bc2a8d?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/r.y.a.n.z.h.u/"alt="Instagram@r.y.a.n.z.h.u">
   </a>
+  <a href="https://www.linkedin.com/in/ryanzhu0819/">
+    <img src="https://img.shields.io/badge/-Ryan%20Zhu-bc2a8d?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white&amp;link=https://www.linkedin.com/in/ryanzhu0819/"alt="LinkedIn@ryanzhu0819">
+  </a>
   <a href="https://www.facebook.com/ryan.zhu.9619/">
     <img src="https://img.shields.io/badge/-Ryan%20Zhu-3b5998?style=for-the-badge&amp;logo=Facebook&amp;logoColor=white&amp;link=https://www.facebook.com/ryan.zhu.9619/"alt="Facebook@Ryan Zhu">
   </a>
