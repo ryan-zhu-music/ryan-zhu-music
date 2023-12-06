@@ -29,6 +29,8 @@
 
 #### I'm a high school student in Toronto, and I enjoy music and coding! 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-zhu-music&layout=compact)
+
 ### Some tools I have experience in:
 
 ![Python](https://img.shields.io/badge/-Python-23242b?style=flat-square&logo=python)
