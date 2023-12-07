@@ -79,8 +79,8 @@
 
 #### My compositions can be found on my [personal website](https://www.ryanzhu.com/discography) :musical_score:
 
-Feel free to reach out for anything!:smiley: <br>
-When I'm not coding, you'll probably find me playing piano or in a climbing gym :)
+Feel free to reach out for anything! <br>
+When I'm not coding, you'll probably find me playing piano or in a climbing gym :smiley:
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=ryan-zhu-music&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" height="160">
