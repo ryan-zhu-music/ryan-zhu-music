@@ -41,14 +41,14 @@
 ![Java](https://img.shields.io/badge/-Java-23242b?style=flat-square&logo=Java)
 ![Racket](https://img.shields.io/badge/-Racket-23242b?style=flat-square&logo=Racket&logoColor=9F1D20)
 ![HTML5](https://img.shields.io/badge/-HTML5-23242b?style=flat-square&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-23242b?style=flat-square&logo=CSS3)
-![Wordpress](https://img.shields.io/badge/-Wordpress-23242b?style=flat-square&logo=Wordpress)
-![React](https://img.shields.io/badge/-React-23242b?style=flat-square&logo=React&logoColor=4285F4)
-![React Native](https://img.shields.io/badge/-React%20Native-23242b?style=flat-square&logo=React&logoColor=4285F4)
+![CSS3](https://img.shields.io/badge/-CSS3-23242b?style=flat-square&logo=CSS3&logoColor=1572B6)
+![Wordpress](https://img.shields.io/badge/-Wordpress-23242b?style=flat-square&logo=Wordpress&logoColor=21759B)
+![React](https://img.shields.io/badge/-React-23242b?style=flat-square&logo=React&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-React%20Native-23242b?style=flat-square&logo=React&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.JS-23242b?style=flat-square&logo=next.js&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-23242b?style=flat-square&logo=Firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-23242b?style=flat-square&logo=mongodb&logoColor=00ed64)
-![Heroku](https://img.shields.io/badge/-Heroku-23242b?style=flat-square&logo=Heroku)
+![Heroku](https://img.shields.io/badge/-Heroku-23242b?style=flat-square&logo=Heroku&logoColor=430098)
 ![Figma](https://img.shields.io/badge/-Figma-23242b?style=flat-square&logo=Figma)
 
 - Web Development
@@ -77,8 +77,12 @@
   - Film music :clapper:
 - Soundfont Development
 
-#### My compositions can be found on my [personal website](https://www.ryanzhu.com/#/music) :musical_score:
+#### My compositions can be found on my [personal website](https://www.ryanzhu.com/discography) :musical_score:
 
-Feel free to reach out for anything! (requests, collaborations, issues, chatting) :smiley: <br>
+Feel free to reach out for anything!:smiley: <br>
+When I'm not coding, you'll probably find me playing piano or in a climbing gym :)
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=ryan-zhu-music&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-zhu-music&theme=material-palenight&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-zhu-music&theme=material-palenight&layout=compact"
+height="160">
