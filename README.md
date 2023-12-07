@@ -5,31 +5,33 @@
     <img src="https://img.shields.io/badge/-Website-3e4e82?style=for-the-badge&amp;logo=Github&amp;logoColor=white&amp;link=https://www.ryanzhu.com/"alt="Website@ryanzhu.com">
   </a>
   <a href="https://www.instagram.com/r.y.a.n.z.h.u/">
-    <img src="https://img.shields.io/badge/-r.y.a.n.z.h.u-bc2a8d?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/r.y.a.n.z.h.u/"alt="Instagram@r.y.a.n.z.h.u">
+    <img src="https://img.shields.io/badge/-r.y.a.n.z.h.u-E4405F?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/r.y.a.n.z.h.u/"alt="Instagram@r.y.a.n.z.h.u">
   </a>
   <a href="https://www.linkedin.com/in/ryanzhumusic/">
-    <img src="https://img.shields.io/badge/-Ryan%20Zhu-0077b5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white&amp;link=https://www.linkedin.com/in/ryanzhumusic/"alt="LinkedIn@ryanzhumusic">
+    <img src="https://img.shields.io/badge/-Ryan%20Zhu-0A66C2?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white&amp;link=https://www.linkedin.com/in/ryanzhumusic/"alt="LinkedIn@ryanzhumusic">
   </a>
   <a href="https://www.facebook.com/ryan.zhu.9619/">
-    <img src="https://img.shields.io/badge/-Ryan%20Zhu-3b5998?style=for-the-badge&amp;logo=Facebook&amp;logoColor=white&amp;link=https://www.facebook.com/ryan.zhu.9619/"alt="Facebook@Ryan Zhu">
+    <img src="https://img.shields.io/badge/-Ryan%20Zhu-0866FF?style=for-the-badge&amp;logo=Facebook&amp;logoColor=white&amp;link=https://www.facebook.com/ryan.zhu.9619/"alt="Facebook@Ryan Zhu">
   </a>
   <a href="https://twitter.com/RZMusic19">
-    <img src="https://img.shields.io/badge/-RZ Music-00acee?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white&amp;link=https://twitter.com/RZMusic19" alt="Twitter@RZ Music">
+    <img src="https://img.shields.io/badge/-RZ Music-000000?style=for-the-badge&amp;logo=X&amp;logoColor=white&amp;link=https://twitter.com/RZMusic19" alt="X/Twitter@RZ Music">
   </a>
   <a href="https://discordapp.com/users/401127703698210816">
     <img src="https://img.shields.io/badge/-RZ%20Music-5865F2?style=for-the-badge&amp;logo=Discord&amp;logoColor=white&amp;link=https://discordapp.com/users/401127703698210816" alt="Discord@RZ Music#5601">
   </a>
   <a href="https://musescore.com/user/34214067">
-    <img src="https://img.shields.io/badge/-RZ%20Music-2A567B?style=for-the-badge&amp;logo=MuseScore&amp;logoColor=white&amp;link=https://musescore.com/user/34214067" alt="MuseScore@RZ Music">
+    <img src="https://img.shields.io/badge/-RZ%20Music-1A70B8?style=for-the-badge&amp;logo=MuseScore&amp;logoColor=white&amp;link=https://musescore.com/user/34214067" alt="MuseScore@RZ Music">
   </a>
   <a href="mailto:rz.ryanzhu@gmail.com">
     <img src="https://img.shields.io/badge/-rz.ryanzhu@gmail.com-EA4335?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:rz.ryanzhu@gmail.com" alt="Gmail@rz.ryanzhu">
   </a>
+  <a href="mailto:rz.ryanzhu@gmail.com">
+    <img src="https://img.shields.io/badge/-rzmusic-FFA116?style=for-the-badge&amp;logo=LeetCode&amp;logoColor=white&amp;link=https://leetcode.com/rzmusic" alt="LeetCode@rzmusic">
+  </a>
 </p>
 
 #### I'm a high school student in Toronto, and I enjoy music and coding! 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-zhu-music&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryan-zhu-music&theme=material-palenight&include_all_commits=true&count_private=true" height="160">
 
 ### Some tools I have experience in:
 
@@ -37,22 +39,21 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-23242b?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-23242b?style=flat-square&logo=typescript)
 ![Java](https://img.shields.io/badge/-Java-23242b?style=flat-square&logo=Java)
+![Racket](https://img.shields.io/badge/-Racket-23242b?style=flat-square&logo=Racket&logoColor=9F1D20)
 ![HTML5](https://img.shields.io/badge/-HTML5-23242b?style=flat-square&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-23242b?style=flat-square&logo=CSS3)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-23242b?style=flat-square&logo=Wordpress)
 ![React](https://img.shields.io/badge/-React-23242b?style=flat-square&logo=React&logoColor=4285F4)
 ![React Native](https://img.shields.io/badge/-React%20Native-23242b?style=flat-square&logo=React&logoColor=4285F4)
+![Next.js](https://img.shields.io/badge/-Next.JS-23242b?style=flat-square&logo=next.js&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-23242b?style=flat-square&logo=Firebase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-23242b?style=flat-square&logo=mongodb&logoColor=00ed64)
 ![Heroku](https://img.shields.io/badge/-Heroku-23242b?style=flat-square&logo=Heroku)
 ![Figma](https://img.shields.io/badge/-Figma-23242b?style=flat-square&logo=Figma)
 
 - Web Development
 - App Development
 - Cybersecurity 
-  - Cryptography
-  - Reverse Engineering
-  - Web Exploitation
-  - Forensics
 - Competitive Programming
 - Game Development
 - Design
@@ -76,12 +77,8 @@
   - Film music :clapper:
 - Soundfont Development
 
-My favourite genres are:
-- Late-romantic
-- Impressionist
-- Oriental
-- Film/VGM
-
 #### My compositions can be found on my [personal website](https://www.ryanzhu.com/#/music) :musical_score:
 
-Feel free to reach out for anything! (requests, collaborations, issues, chatting) :smiley:
+Feel free to reach out for anything! (requests, collaborations, issues, chatting) :smiley: <br>
+<img src="https://github-readme-stats.vercel.app/api?username=ryan-zhu-music&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" height="160">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-zhu-music&theme=material-palenight&layout=compact">
