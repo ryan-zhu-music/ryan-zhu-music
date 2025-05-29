@@ -30,7 +30,7 @@
   </a>
 </p>
 
-#### I'm a high school student in Toronto, and I enjoy music and coding! 
+#### I'm a 3rd-year Computer Science student at the University of Waterloo, and I enjoy music and coding! 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryan-zhu-music&theme=material-palenight&include_all_commits=true&count_private=true" height="160">
 
 ### Some tools I have experience in:
@@ -77,7 +77,7 @@
   - Film music :clapper:
 - Soundfont Development
 
-#### My compositions can be found on my [personal website](https://www.ryanzhu.com/discography) :musical_score:
+#### My compositions can be found on my [personal website](https://www.ryanzhu.com/) :musical_score:
 
 Feel free to reach out for anything! <br>
 When I'm not coding, you'll probably find me playing piano or in a climbing gym :smiley:
