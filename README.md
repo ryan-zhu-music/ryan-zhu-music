@@ -25,7 +25,7 @@
   <a href="mailto:rz.ryanzhu@gmail.com">
     <img src="https://img.shields.io/badge/-rz.ryanzhu@gmail.com-EA4335?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:rz.ryanzhu@gmail.com" alt="Gmail@rz.ryanzhu">
   </a>
-  <a href="mailto:rz.ryanzhu@gmail.com">
+  <a href="https://leetcode.com/u/rzmusic/">
     <img src="https://img.shields.io/badge/-rzmusic-FFA116?style=for-the-badge&amp;logo=LeetCode&amp;logoColor=white&amp;link=https://leetcode.com/rzmusic" alt="LeetCode@rzmusic">
   </a>
 </p>
